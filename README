@@ -1,0 +1,16 @@
+* js-mqo について
+これは obj-mqo の JavaScript への移植です。WebGL を使います
+基本的にMQOファイルを解析してそのまま描写することしかしない単純なライブラリです。
+本格的に使いたいなら http://sio29.sakura.ne.jp/ にあるライブラリの方がよいでしょう。
+
+* 使い方
+metasequoia.js のライセンスヘッダーの下に使い方があります。
+
+* 必要だけど入っていないもの
+- sylvester.js
+- glUtils.js
+いずれも learningwebgl.com から
+
+* ライセンス
+undef MIT License
+
